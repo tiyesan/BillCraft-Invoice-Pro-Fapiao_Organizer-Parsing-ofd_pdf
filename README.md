@@ -1,0 +1,2 @@
+# BillCraft-Pro5-Intelligent-Electronic-Invoice-Processing-Reimbursement-Management-Platform
+票匠BillCraft Pro是一款面向财务人员的智能电子票据处理与报销整理软件，主要用于电子发票、铁路电子客票、航空运输电子客票行程单等报销票据的批量整理与规范化处理。软件支持PDF、OFD等文件格式，可实现票据转换、分类、排序、自动缩放、A4排版及PDF合并输出。用户无需逐份调整票据版式，即可快速生成适用于打印、报销和归档的规范化PDF文件，有效减少重复整理工作，提高财务人员票据处理效率。
