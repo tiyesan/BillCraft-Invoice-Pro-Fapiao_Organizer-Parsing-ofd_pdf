@@ -22,3 +22,4 @@ A4标准纸张自动拼版，优化打印效果
 差旅费报销
 发票集中打印
 电子票据批量管理
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1f267774-f8ae-4d92-8ba4-08d09ea0bcda" />
