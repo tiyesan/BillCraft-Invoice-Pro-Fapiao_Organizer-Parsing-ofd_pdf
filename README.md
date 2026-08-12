@@ -31,15 +31,27 @@ A4标准纸张自动拼版，优化打印效果
 差旅费报销
 发票集中打印
 电子票据批量管理
+
+
 使用方法
+
+
 1.启动主界面
+
+
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1f267774-f8ae-4d92-8ba4-08d09ea0bcda" />
 
 2.把三类发票分别放入对应三个文件件（44文件视同增值税发票处理）
+
+
 <img width="255" height="99" alt="image" src="https://github.com/user-attachments/assets/4648694a-c08c-44d6-81a8-28cf33a29e8d" />
 
 3.点击主界面合并按钮
 
+
+
 4.打开生成的文件
+
+
 <img width="726" height="346" alt="image" src="https://github.com/user-attachments/assets/190ec936-f9f1-4c01-8305-bf261c70e552" />
 
