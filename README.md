@@ -41,12 +41,18 @@ A4标准纸张自动拼版，优化打印效果
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1f267774-f8ae-4d92-8ba4-08d09ea0bcda" />
 
+
 2.把三类发票分别放入对应三个文件件（44文件视同增值税发票处理）
 
 
 <img width="255" height="99" alt="image" src="https://github.com/user-attachments/assets/4648694a-c08c-44d6-81a8-28cf33a29e8d" />
 
-3.点击主界面合并按钮
+
+3.选择三个文件件的上级文件夹，确定后，点击主界面“合并”按钮
+
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/20bb3e96-effa-4a14-9a5e-9ac1824b95b6" />
+
 
 
 
