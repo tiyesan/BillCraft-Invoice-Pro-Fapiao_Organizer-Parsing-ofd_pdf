@@ -11,6 +11,13 @@
 自动完成票据分类与批量转换
 多页票据智能排序，避免页码错乱
 A4标准纸张自动拼版，优化打印效果
+按照铁路电子客票4*2，航空运输电子客票行程单3*1，增值税发票按照固定宽度按比例缩放处理
+
+排版模式：
+
+<img width="906" height="383" alt="image" src="https://github.com/user-attachments/assets/405a897b-5fb8-46d8-8018-fe9a6314d207" />
+
+
 保持原始票据比例与高清输出质量
 批量处理数百份电子票据，无需人工整理
 操作简单，无需专业培训，一键完成报销附件制作
@@ -22,4 +29,15 @@ A4标准纸张自动拼版，优化打印效果
 差旅费报销
 发票集中打印
 电子票据批量管理
+使用方法
+1.启动主界面
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1f267774-f8ae-4d92-8ba4-08d09ea0bcda" />
+
+2.把三类发票分别放入对应三个文件件（44文件视同增值税发票处理）
+<img width="255" height="99" alt="image" src="https://github.com/user-attachments/assets/4648694a-c08c-44d6-81a8-28cf33a29e8d" />
+
+3.点击主界面合并按钮
+
+4.打开生成的文件
+<img width="726" height="346" alt="image" src="https://github.com/user-attachments/assets/190ec936-f9f1-4c01-8305-bf261c70e552" />
+
