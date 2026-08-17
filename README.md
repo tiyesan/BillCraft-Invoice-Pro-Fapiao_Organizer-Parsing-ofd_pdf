@@ -1,4 +1,4 @@
-票匠 Pro（BillCraft Pro）软件简介
+票匠BillCraft invoice Pro5.1软件简介
 票匠 Pro（BillCraft Pro） 是一款面向财务报销、审计归档及行政办公场景开发的智能电子票据处理软件，专注解决 PDF/OFD电子票据格式混杂、票据分类繁琐、多页文件排序混乱、A4打印排版效率低 等实际问题。
 
 软件支持增值税电子发票、铁路电子客票、航空运输电子客票行程单等多种主流电子票据格式，可自动完成智能识别、分类整理、PDF/OFD高清转换、A4自动拼版、多页票据顺序优化及一键生成标准报销附件，显著提升财务资料整理效率。
@@ -39,25 +39,31 @@ A4标准纸张自动拼版，优化打印效果
 1.启动主界面
 
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1f267774-f8ae-4d92-8ba4-08d09ea0bcda" />
+<img width="620" height="650" alt="image" src="https://github.com/user-attachments/assets/616c6d91-1e20-440b-88a5-5bdada161c05" />
 
 
-2.把三类发票分别放入对应三个文件件（44文件视同增值税发票处理）
+2.桌面会自动生成专用文件夹
+
+
+<img width="102" height="135" alt="image" src="https://github.com/user-attachments/assets/10148459-88c3-475f-9b4a-1c5f144145ad" />
+
+
+3.把三类发票分别放入对应三个文件件（44文件视同增值税发票处理）
 
 
 <img width="255" height="99" alt="image" src="https://github.com/user-attachments/assets/4648694a-c08c-44d6-81a8-28cf33a29e8d" />
 
 
-3.选择三个文件件的上级文件夹，确定后，点击主界面“合并”按钮
+4.选择三个文件件的上级文件夹，确定后，点击主界面“合并”按钮
 
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/20bb3e96-effa-4a14-9a5e-9ac1824b95b6" />
+<img width="620" height="650" alt="image" src="https://github.com/user-attachments/assets/184c4b4d-5e8a-4ac0-9f19-bd23e8d1a5c6" />
 
 
 
+5.打开生成的文件
 
-4.打开生成的文件
 
+<img width="896" height="432" alt="image" src="https://github.com/user-attachments/assets/19c3ef38-01ec-4b72-b812-3caa7384d644" />
 
-<img width="726" height="346" alt="image" src="https://github.com/user-attachments/assets/190ec936-f9f1-4c01-8305-bf261c70e552" />
 
